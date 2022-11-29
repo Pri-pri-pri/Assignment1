@@ -1,0 +1,21 @@
+body {
+  padding: 16px 32px;
+}
+#curryDish {
+  color: deeppink;
+  text-decoration: none;
+}
+#curryDish:hover {
+  text-decoration: underline;
+}
+
+#clickHere {
+  color: black;
+}
+#clickHere:hover {
+  text-decoration: none;
+}
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
